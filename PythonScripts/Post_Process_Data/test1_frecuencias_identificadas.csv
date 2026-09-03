@@ -1,0 +1,22 @@
+Canal,f [Hz],prom [dB],sv1/sv2,ζ [%],nodos,clase
+aX (geófono),2.023,20.6,5654.3,2.38,0,armónico/fuente
+aX (geófono),2.625,7.3,220.2,3.21,0,armónico/fuente
+aX (geófono),2.866,11.6,818.1,1.26,0,armónico/fuente
+aX (geófono),3.54,16.2,341.7,4.42,0,armónico/fuente
+aX (geófono),4.937,6.9,10.9,2.93,0,modo estructural
+aX (geófono),5.973,5.1,24.0,3.83,1,modo estructural
+aX (geófono),7.466,18.6,163.6,2.42,1,modo estructural
+aX (geófono),12.33,16.1,108.0,1.76,1,modo estructural
+aX (geófono),17.171,12.9,64.9,0.35,2,modo estructural
+aY (geófono),1.951,25.0,12405.7,3.09,0,armónico/fuente
+aY (geófono),3.275,7.3,19.0,1.1,0,modo estructural
+aY (geófono),4.937,12.4,42.9,2.44,0,dudoso
+aY (geófono),7.345,12.3,250.4,4.75,1,modo estructural
+aY (geófono),11.102,10.2,15.6,3.04,1,modo estructural
+aY (geófono),14.859,13.1,3.0,0.57,1,modo estructural
+aY (geófono),21.241,7.7,11.7,2.61,2,modo estructural
+aZ (geófono),2.023,18.9,276.5,2.38,0,armónico/fuente
+aZ (geófono),2.866,10.5,7.5,1.26,0,modo estructural
+aZ (geófono),3.588,5.4,4.2,9.73,0,dudoso
+aZ (geófono),10.669,11.6,184.4,2.14,0,armónico/fuente
+aZ (geófono),19.459,10.1,104.2,0.99,0,armónico/fuente
